@@ -9,9 +9,9 @@ Alternatively, and if you want to read through the code and be able to see the c
 
 ## "temporary title -> plots"
 After concatenating all 52 csv files for the whole of 2018 (that's 1 per week), I plotted the number of bikes picked up / hour:
-[bikes_per_hour_2018](https://i.imgur.com/HduxOoK.png "bikes_per_hour")
+![bikes_per_hour_2018](https://i.imgur.com/HduxOoK.png "bikes_per_hour")
 That's for the whole year, but we can still notice the 2 spikes around 8am (going to work...) and 5-6pm (going home!). I mean, surely that's what these mean?
 
 I then plotted the number of bikes picked up depending on the month:
-[bikes_per_month_2018](https://i.imgur.com/QT6nhLH.png "bikes_per_month")
+![bikes_per_month_2018](https://i.imgur.com/QT6nhLH.png "bikes_per_month")
 Obvious tendency to cycle more during warmer months.
