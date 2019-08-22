@@ -4,7 +4,7 @@ Data exploration: TfL bikes usage in London
 ## Notes
 Data is available [here](https://cycling.data.tfl.gov.uk/)
 
-GitHub doesn't allow JS to run, so you won't see any plot using Bokeh (and hence, its JavaScript API...) in the notebook. Not to worry though, because I'll put these here!
+GitHub doesn't allow external JS to run, so you won't see any plot using Bokeh (and hence, its JavaScript API...) in the notebook. Not to worry though, because I'll put these here!
 Alternatively, and if you want to read through the code and be able to see the cells with their associated plots, you can see a rendered version of the Jupyter Notebook [on nbviewer](https://nbviewer.jupyter.org/github/GeoffroyS/London-bikes-analysis/blob/master/bikes_analysis.ipynb)
 
 ## "temporary title -> plots"
